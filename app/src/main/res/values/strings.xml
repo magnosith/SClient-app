@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SClient</string>
+    <string name="linkdown">
+    <a href="http://healthtech.samel.com.br/"> HealthTech Samel</a>
+       </string>
+
+</resources>
